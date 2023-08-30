@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👨‍💻 I'm Oleg, a backend developer 🚀</div>  
+### <div align="center">👨‍💻 I'm Oleg, a backend developer from Russia 🚀</div>  
   
 
 <br/>  
