@@ -55,7 +55,7 @@
 <br/>  
 
 ## Github Stats  
-![Oleg's github stats](https://github-readme-stats.vercel.app/api?username=techmag)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=techmag112&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 <br/>  
@@ -71,7 +71,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=techmag&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=techmag112&&style=flat-square" align="center" />
 </div>  
   
 
